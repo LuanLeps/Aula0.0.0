@@ -1,1 +1,1 @@
-# Repositorio de testa, para praticar durante a aula.
+# Repositorio de teste, para praticar durante a aula.
